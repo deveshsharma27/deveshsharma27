@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate (CSE ’27) and B.Tech 3rd-year student at Madan Mohan Malaviya University of Technology (MMMUT).<br><br>I am currently focused on Data Structures & Algorithms, problem solving, and Artificial Intelligence, while actively exploring Generative AI and Large Language Models through hands-on projects.<br><br>I enjoy breaking down complex problems, writing structured and optimized solutions, and continuously improving code efficiency through practice and real-world applications.<br><br>At this stage, I am dedicated to strengthening my fundamentals and building practical skills. I’m open to internships, projects, and learning-based collaborations in software development and AI.
+Computer Science undergraduate (CSE ’27) and B.Tech 3rd-year student at Madan Mohan Malaviya University of Technology (MMMUT).<br>I am currently focused on Data Structures & Algorithms, problem solving, and Artificial Intelligence, while actively exploring Generative AI and Large Language Models through hands-on projects.<br>I enjoy breaking down complex problems, writing structured and optimized solutions, and continuously improving code efficiency through practice and real-world applications.<br>At this stage, I am dedicated to strengthening my fundamentals and building practical skills. I’m open to internships, projects, and learning-based collaborations in software development and AI.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deveshsharma27/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devesh200300@gmail.com) 
@@ -10,8 +10,4 @@ Computer Science undergraduate (CSE ’27) and B.Tech 3rd-year student at Madan 
 ![](https://github-readme-stats.vercel.app/api?username=deveshsharma27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=deveshsharma27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsharma27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=deveshsharma27&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
